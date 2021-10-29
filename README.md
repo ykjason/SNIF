@@ -1,2 +1,2 @@
-# MSFlames
-Tier identifier for only the four main stats currently
+# SNIF
+Screen Recorder/Editor
